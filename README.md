@@ -1,3 +1,5 @@
 # Practice project
 ## from FreeCodeCamp
-[this is my practice code,very stupid.](wwww.baidu.com)
+[This is my practice code,very stupid.And my code mostly from this Search Engine.]:wwww.baidu.com
+### Whatever,Enjoy!
+```System.out.println("Hello ****ing world!")```
